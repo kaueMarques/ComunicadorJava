@@ -14,7 +14,7 @@ import org.apache.commons.mail.EmailException;
 
 /**
  *
- * @author kauebarbosa
+ * @author kaueMarques
  */
 public class ClientEmail {
 

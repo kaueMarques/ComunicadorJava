@@ -10,7 +10,7 @@ import java.net.URLEncoder;
 
 /**
  *
- * @author kauebarbosa
+ * @author kaueMarques
  */
 public class ClientSMS {
 

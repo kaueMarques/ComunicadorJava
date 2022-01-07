@@ -13,7 +13,7 @@ import lombok.Data;
 
 /**
  *
- * @author kauebarbosa
+ * @author kaueMarques
  */
 @Data
 public class Menssagem {
