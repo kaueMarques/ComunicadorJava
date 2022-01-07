@@ -16,19 +16,19 @@ import lombok.Data;
  * @author kauebarbosa
  */
 @Data
-public class Mensagem {
+public class Menssagem {
 
     private String strNome;
     private String strTextoMensagem;
     private String strAssunto;
     private String strDestino;
 
-    public Mensagem(String strTextoMensagem, String strDestino) {
+    public Menssagem(String strTextoMensagem, String strDestino) {
         this.strTextoMensagem = strTextoMensagem;
         this.strDestino = strDestino;
     }
 
-    public Mensagem(String strTextoMensagem, String strDestino, String strNome, String strAssunto) throws IOException {
+    public Menssagem(String strTextoMensagem, String strDestino, String strNome, String strAssunto) throws IOException {
         this.strNome = strNome;
         this.strTextoMensagem = strTextoMensagem;
         this.strAssunto = strAssunto;

@@ -13,7 +13,7 @@ import org.apache.commons.mail.EmailException;
 
 public class Sender {
 
-    private final Mensagem objMENSAGEM;
+    private final Menssagem objMENSAGEM;
 
     public void email() throws EmailException, IOException {
         ClientEmail clienteEmail = new ClientEmail(objMENSAGEM);
@@ -27,7 +27,7 @@ public class Sender {
         clienteSMS.sendSMS();
     }
 
-    public Sender(Mensagem objMENSAGEM) {
+    public Sender(Menssagem objMENSAGEM) {
         this.objMENSAGEM = objMENSAGEM;
     }
 

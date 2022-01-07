@@ -18,7 +18,7 @@ import org.apache.commons.mail.EmailException;
  */
 public class ClientEmail {
 
-    private final Mensagem objMENSSAGE;
+    private final Menssagem objMENSSAGE;
     private BeanCredentials env = new BeanCredentials();
 
     private Session configuracoesSession() {
@@ -83,7 +83,7 @@ public class ClientEmail {
         }
     }
 
-    public ClientEmail(Mensagem objMENSSAGE) throws EmailException {
+    public ClientEmail(Menssagem objMENSSAGE) throws EmailException {
         this.objMENSSAGE = objMENSSAGE;
     }
 }

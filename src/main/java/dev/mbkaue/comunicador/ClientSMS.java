@@ -14,11 +14,11 @@ import java.net.URLEncoder;
  */
 public class ClientSMS {
 
-    private final Mensagem objMensagem;
+    private final Menssagem objMensagem;
     private final String strDESTINO;
     private BeanCredentials env = new BeanCredentials();
 
-    public ClientSMS(Mensagem objMensagem, String strDestino) {
+    public ClientSMS(Menssagem objMensagem, String strDestino) {
 
         this.objMensagem = objMensagem;
         this.strDESTINO = strDestino;
