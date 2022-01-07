@@ -4,7 +4,7 @@ import lombok.Getter;
 
 /**
  *
- * @author kauebarbosa
+ * @author kaueMarques
  */
 @Getter
 public class BeanCredentials {

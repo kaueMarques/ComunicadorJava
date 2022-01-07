@@ -2,12 +2,11 @@ package dev.mbkaue.comunicador;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import lombok.AllArgsConstructor;
 import org.apache.commons.mail.EmailException;
 
 /**
  *
- * @author kauebarbosa
+ * @author kaueMarques
  */
 
 
