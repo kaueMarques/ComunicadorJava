@@ -23,6 +23,12 @@
 Pacote criado para facilitar o envio de Menssagens se utilizando de plataformas como, Facilita Móvel e também o SMTP da Locaweb, mas também é possível usar em outros servios de email.
 </p>
  
+<br>
+
+<p>
+Depreciado, hoje toda a tecnologia foi atualizada para microservico, está página está servindo como meu portfólio de documentação de projeto. 
+</p>
+ 
 </div>
 
 
